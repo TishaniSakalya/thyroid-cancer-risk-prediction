@@ -8,7 +8,7 @@ Thyroid cancer is one of the fastest-growing cancer types globally. Early detect
 
 ## 🧪 Methodology
 
-- **Data Cleaning & Preprocessing** in R and Python
+- **Data Cleaning & Preprocessing** in Python
 - **Univariate, Bivariate, and Multivariate Data Analysis** including Factor Analyis for Mixed Data(FAMD) and Cluster Analysis
 - **Model Fitting**: Logistic Regression, SVM, Naive Bayes, Classification Trees, Random Forest, XG Boost
 - **Evaluation**: Accuracy, Precision, Recall, F1 Score
