@@ -25,9 +25,8 @@ Thyroid cancer is one of the fastest-growing cancer types globally. Early detect
 ## 🚀 Running the Code
 
 1. Clone this repo
-2. Run scripts in `/analysis/` to reproduce results
-3. Launch the web app using `Rscript app.R` (or `python app.py`)
-4. View the demo using this link. [https://drive.google.com/drive/folders/1aEtJILyCsOrMf-ZsOB7hoVDymd9pt_US]
+2. Run scripts in `/codes/` to reproduce results
+3. View the demo using this link. [https://drive.google.com/drive/folders/1aEtJILyCsOrMf-ZsOB7hoVDymd9pt_US]
 
 ## 📚 Tools Used
 
