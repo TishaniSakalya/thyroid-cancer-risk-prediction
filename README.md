@@ -16,9 +16,9 @@ Thyroid cancer is one of the fastest-growing cancer types globally. Early detect
 
 ## 📁 Project Structure
 
-- `/codes/`: All code related to preprocessing ,EDA, and modeling
-- `/webapp/`: Code for the web app 
-- `/data/`: Dataset 
+- `/codes/`: All code related to preprocessing , EDA, and modeling
+- `/webapp/`: Code for the web application
+- `/data/`: Includes dataset 
 - `/report/`: Project report and presentation slides
 - `/demo/`: Link to the demonstration video
 
