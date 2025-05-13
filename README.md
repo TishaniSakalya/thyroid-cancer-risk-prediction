@@ -1,2 +1,40 @@
-# thyroid-cancer-risk-prediction
-Predicting thyroid cancer risk using machine learning techniques with R, Python, and a web-based application. Includes data analysis, report, presentation, and demonstration video.
+# Thyroid Cancer Risk Prediction
+
+This project aims to predict the risk of thyroid cancer using machine learning techniques. It includes data analysis in R and Python, a web application, and a detailed report and presentation.
+
+## 🩺 Problem
+
+Thyroid cancer is one of the fastest-growing cancer types globally. Early detection using routine health records and machine learning techniques can help guide further testing and intervention.
+
+## 🧪 Methodology
+
+- **Data Cleaning & Preprocessing** in R and Python
+- **Univariate, Bivariate, and Multivariate Data Analysis** including Factor Analyis for Mixed Data(FAMD) and Cluster Analysis
+- **Model Fitting**: Logistic Regression, SVM, Naive Bayes, Classification Trees, Random Forest, XG Boost
+- **Evaluation**: Accuracy, Precision, Recall, F1 Score
+- **Web App**: Built to demonstrate prediction 
+
+## 📁 Project Structure
+
+- `/analysis/`: All code related to preprocessing ,EDA, and modeling
+- `/webapp/`: Code for the web app 
+- `/data/`: Dataset 
+- `/report/`: Project report and presentation slides
+- `/demo/`: Link to the demonstration video
+
+## 🚀 Running the Code
+
+1. Clone this repo
+2. Run scripts in `/analysis/` to reproduce results
+3. Launch the web app using `Rscript app.R` (or `python app.py`)
+4. View the demo [here](https://your-link.com)
+
+## 📚 Tools Used
+
+- R 
+- Python 
+- HTML/CSS 
+
+## 📜 License
+
+This project is under the MIT License.
